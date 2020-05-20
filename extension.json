@@ -1,0 +1,12 @@
+{
+    "version": "0.0.1",
+    "apiVersion": "1.0.0",
+    "author": "Mark \"cool guy\" Garrison",
+    "name": "Test Extension Please Ignore",
+    "extensions": {
+        "Test Extension": {
+            "type": "HighLevelAnalyzer",
+            "entryPoint": "util.TextMessages"
+        }
+    }
+}
