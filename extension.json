@@ -3,6 +3,7 @@
     "apiVersion": "1.0.0",
     "author": "Mark \"cool guy\" Garrison",
     "name": "Test Extension Please Ignore",
+    "description": "nothing to see here",
     "extensions": {
         "Test Extension": {
             "type": "HighLevelAnalyzer",
